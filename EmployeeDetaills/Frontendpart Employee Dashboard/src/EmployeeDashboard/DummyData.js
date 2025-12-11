@@ -1,0 +1,51 @@
+export const EmployeeDetails=[
+    {
+        key:0,
+        eid:'E10001',
+        ename:'Akash Rathour',
+        email:'akkurathour2@gmail.com',
+        city:'New Delhi',
+    },
+    {
+        key:1,
+        eid:'E10002',
+        ename:'Akash Rathour',
+        email:'akkurathour2@gmail.com',
+        city:'New Delhi',
+    },
+    {
+        key:2,
+        eid:'E10003',
+        ename:'Akash Rathour',
+        email:'akkurathour2@gmail.com',
+        city:'New Delhi',
+    },
+    {
+        key:3,
+        eid:'E10004',
+        ename:'Akash Rathour',
+        email:'akkurathour2@gmail.com',
+        city:'New Delhi',
+    },
+    {
+        key:4,
+        eid:'E10005',
+        ename:'Akash Rathour',
+        email:'akkurathour2@gmail.com',
+        city:'New Delhi',
+    },
+    {
+        key:5,
+        eid:'E10006',
+        ename:'Akash Rathour',
+        email:'akkurathour2@gmail.com',
+        city:'New Delhi',
+    },
+    {
+        key:6,
+        eid:'E10007',
+        ename:'Akash Rathour',
+        email:'akkurathour2@gmail.com',
+        city:'New Delhi',
+    },
+]
